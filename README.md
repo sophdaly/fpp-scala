@@ -1,2 +1,2 @@
 # fpp-scala
-Coursera: Functional Programming Principles in Scala
+[Coursera](https://www.coursera.org/learn/progfun1) Functional Programming Principles in Scala
