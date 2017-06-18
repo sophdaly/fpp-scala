@@ -1,0 +1,7 @@
+.*
+!.gitignore
+*.sbt
+*.sc
+src/main/scala/common/**
+project/**
+target/**
